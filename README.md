@@ -1,1 +1,2 @@
 # odin-recipes
+This project will create a small recipe website. This is to demonstrate the HTML skills I have learned so far through The Odin Project, such as creating an index and linking to other pages.
